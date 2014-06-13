@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tew">
+    <output-path>$PROJECT_DIR$/out/production</output-path>
+    <root id="archive" name="tew.jar">
+      <element id="module-output" name="OnTheEdgeOfWorld" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/jars/lzma.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/jars/jinput.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/jars/lwjgl_util.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/jars/jogg-0.0.7.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/jars/slick.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/jars/lwjgl.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/jars/slick-util.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/jars/jorbis-0.0.15.jar" />
+    </root>
+  </artifact>
+</component>
